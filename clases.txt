@@ -1,0 +1,22 @@
+HEADER
+
+clases
+
+class header
+class burguer-button
+    class img-burger
+class container-carrito
+    class img-cart
+    class text-carrito
+
+
+medidas 
+
+min-width 700px
+
+BANNER
+
+clases
+
+class banner
+class container-banner
